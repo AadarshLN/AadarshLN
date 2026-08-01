@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying at NYU Tandon pusruing my Masters in Computer Engineering
 - I completed my bachelors in Computer Science and Engineering at National Institute of Technology Karnataka, Surathkal 
 - 📫 How to reach me : [Connect with me on LinkedIn](https://www.linkedin.com/in/aadarsh-lakshmi-narasiman/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AadarshLN&label=Profile%20views&color=0e75b6&style=flat" alt="AadarshLN" /> </p>
+
 
 
 
