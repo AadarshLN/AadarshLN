@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently studying at NYU Tandon
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/aadarsh-lakshmi-narasiman/" target="_blank">
-  <img src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" />
-</a>
+- 📫 How to reach me : [Connect with me on LinkedIn](https://www.linkedin.com/in/aadarsh-lakshmi-narasiman/)
+
 
 
